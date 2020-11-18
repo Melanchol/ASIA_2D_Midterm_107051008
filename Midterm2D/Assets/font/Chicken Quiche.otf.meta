@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5ffe54a2b7d11f743b2a7f87ca93d65b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chicken Quiche
+  fontNames:
+  - Chicken Quiche
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1806168d8cf9bd4aade85c74961b7f2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
