@@ -10,7 +10,7 @@ public class MenuManager : MonoBehaviour
     public void StartGame()
     {
         print("開始執行遊戲");
-        SceneManager.LoadScene("關卡1");
+        SceneManager.LoadScene("關卡中");
     }
 
     // Update is called once per frame
